@@ -2,6 +2,6 @@ label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyasu02.svg,#ea3b13
 燃やせないごみ,,,img/moyasanai02.svg,#733b96
 資源物（容器包装プラスチック）,,,img/shigen02.svg,#77ae1f
-資源物（古紙・古着）,,,img/shigen02.svg,#77ae1f
-資源物（ペットボトル）,,,img/shigen02.svg,#77ae1f
+資源物（古紙・古着）,,,img/shigen02.svg,#bbe400
+資源物（ペットボトル）,,,img/shigen02.svg,#81d12e
 資源物（びん・かん・有害物）,,,img/bin02.svg,#2dc7aa
